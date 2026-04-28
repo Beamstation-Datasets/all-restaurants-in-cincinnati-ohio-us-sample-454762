@@ -1,6 +1,6 @@
 # All Restaurants in Cincinnati, Ohio, US
 
-> Free BeamStation sample export with 103 rows and masked direct-contact fields.
+> Free BeamStation sample export with 116 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `454762` |
 | Location | Cincinnati |
 | Category | Restaurants |
-| Full dataset size | 1,031 records |
-| Free sample size | 103 records (9.99%) |
-| Last export | 2026-04-21T16:59:55.229131+00:00 |
+| Full dataset size | 1,160 records |
+| Free sample size | 116 records (10.0%) |
+| Last export | 2026-04-28T17:59:34.009729+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-cincinnati-ohio-us-sample-454762/releases/download/sample-latest/beamstation_454762_restaurants-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
