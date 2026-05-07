@@ -1,12 +1,12 @@
 {
-  "export_job_id": "14916f70-71af-4f5a-8f90-45097722dabe",
+  "export_job_id": "75465732-36df-433d-90a2-ec72babc7ba3",
   "id_short": 454762,
-  "published_at": "2026-04-28T19:48:49Z",
+  "published_at": "2026-05-07T07:10:57Z",
   "repo_name": "all-restaurants-in-cincinnati-ohio-us-sample-454762",
   "sample_asset_name": "beamstation_454762_restaurants-us-oh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/454762/beamstation_454762_restaurants-us-oh_SAMPLE_DIST.csv",
-  "sample_records": 116,
-  "sample_sha256": "e2a1cba63f35425c937c8e891ff4b4bf1a30d21a8e9931028a87b6595c09f2dd",
-  "sample_size_bytes": 428920,
-  "total_records": 1160
+  "sample_records": 125,
+  "sample_sha256": "da0912b235cb1137c99b98c0f1b81e3e6eb0e74483d48c640b8d57089922ae8b",
+  "sample_size_bytes": 456659,
+  "total_records": 1253
 }
